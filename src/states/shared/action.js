@@ -16,4 +16,4 @@ function asyncPopulateUsersAndTalks() {
   };
 }
 
-export default { asyncPopulateUsersAndTalks };
+export default asyncPopulateUsersAndTalks;
