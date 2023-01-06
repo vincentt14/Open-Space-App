@@ -8,3 +8,5 @@ function isPreloadReducer(isPreLoad = true, action = {}) {
       return isPreLoad;
   }
 }
+
+export default isPreloadReducer;
