@@ -5,11 +5,9 @@ import TalkItem, { talkItemShape } from './TalkItem';
 function TalksList({ talks, like }) {
   return (
     <div className="talks-list">
-      {
-         talks.map((talk) => (
-           <TalkItem key={talk.id} {...talk} like={like} />
-         ))
-      }
+      {talks.map((talk) => (
+        <TalkItem key={talk.id} {...talk} like={like} />
+      ))}
     </div>
   );
 }
