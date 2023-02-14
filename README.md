@@ -1,1 +1,1 @@
-Implementasi Redux pada Aplikasi Sosial Media Open Space (Twitter Like App)
+Aplikasi Twitter Lookalike dengan React Redux, Eslint-Proptypes, testting dengan Jest dan Cypress. dengan API Dicoding | fitur login, register, membuat talk, melihat talk parent, menambahkan komentar.
